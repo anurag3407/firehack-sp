@@ -350,9 +350,9 @@ gsap.to('.deadpool-character',{
 
 
 gsap.to('.deadpool-character',{
-    top : '146.5%',
-    left:'35%',
-    scale : 1.1,
+    top : '160%',
+    left:'60%',
+    scale : 1.05,
     duration : 1,
     scrollTrigger : {
         trigger : '.footer',
