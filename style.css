@@ -1099,9 +1099,9 @@ nav ul li a:hover{
     bottom: -20%;
     opacity: 0%;
     transform: scale(1);
-    left: 50%;
+    left: 56%;
     overflow: hidden;
-    z-index: 99;
+    z-index: 1;
 }
 .deadpool-character img{
     width: 100%;
